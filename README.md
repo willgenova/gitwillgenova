@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil.
 
-Olá, eu sou o William Genova 
+Olá, eu sou o William Genova, aluno da plataforma Staart. 
 
 ## Meus hobbies
 
