@@ -4,9 +4,9 @@ Olá, eu sou o William Genova
 
 ## Meus hobbies
 
-- ler
-- jogar video game
-- criar conteúdo na internet sobre violino
+- Ler
+- Jogar video game
+- Criar conteúdo na internet sobre violino
 
 
 ## Atualmente estudando 
